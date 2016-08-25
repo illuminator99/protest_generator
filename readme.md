@@ -1,0 +1,3 @@
+The Protest Generator was initially created for our intervention in Montreal in 2014. The government had outlawed protests of more than 50 people, so we decided to project hundreds of virtual protesters into the streets.
+
+This tool consists of an After Effects project, a green screen video of someone holding a sign, and a photoshop file of a different protest sign. You can film your own green screen videos and swap them out for ours, and even create your own signs, which will then be held by marchers!
